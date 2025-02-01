@@ -14,7 +14,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'Siemens' do
+target 'siemensTestTaskIsraRamazanov' do
   config = use_native_modules!
 
   use_react_native!(
@@ -32,4 +32,5 @@ target 'Siemens' do
       # :ccache_enabled => true
     )
   end
+  pod 'react-native-config', :path => '../node_modules/react-native-config'
 end
