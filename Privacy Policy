@@ -1,0 +1,47 @@
+**Privacy Policy**
+
+**Effective Date:** [Insert Date]  
+
+**1. Introduction**  
+This Privacy Policy explains how [App Name] ("we," "our," or "us") collects, uses, and protects your information when you use our mobile application. By using the app, you agree to the terms outlined in this policy.
+
+**2. Information We Collect**  
+Our application may collect and process the following data:
+
+- **Weather Component:** When you enter a zip code, we retrieve weather data from a third-party API. We store the last 5 zip codes searched for history purposes.
+- **Bluetooth Component:** We scan for nearby Bluetooth devices and display available services and characteristics. No data is stored permanently.
+- **WiFi Component:** The app searches for nearby WiFi networks but does not store or share this information.
+- **Barcode Scanner:** The app scans barcodes and maintains a history of the last 5 scanned barcodes. This data is stored locally on your device.
+
+**3. How We Use Your Information**  
+We use the collected data solely to provide the functionality of the app. Specifically:
+- Display weather information based on user input.
+- Show recently searched zip codes and scanned barcodes.
+- Allow users to connect to Bluetooth devices and display their characteristics.
+- Display available WiFi networks.
+
+**4. Data Storage & Security**  
+- The application does not store personal data on external servers.
+- All stored history (zip codes and barcodes) remains on the user’s device.
+- We do not share, sell, or distribute your data to third parties.
+
+**5. Third-Party Services**  
+- The weather data is retrieved from a third-party API. We do not control how they process your requests.
+- The barcode scanner and Bluetooth functionalities rely on third-party libraries, which may have their own privacy policies.
+
+**6. Permissions**  
+Our app may request the following permissions:
+- **Location Access:** Required for retrieving local weather conditions (optional, if applicable).
+- **Bluetooth Access:** Required for scanning and connecting to nearby devices.
+- **Camera Access:** Required for scanning barcodes.
+- **WiFi Access:** Required for displaying available networks.
+
+**7. User Control & Data Deletion**  
+You can delete stored history (zip codes and barcodes) by clearing the app's data in your device settings.
+
+**8. Changes to This Privacy Policy**  
+We may update this policy as necessary. Any changes will be reflected in the app, and continued use of the app constitutes acceptance of the updated policy.
+
+**9. Contact Us**  
+If you have any questions about this Privacy Policy, please contact us at [Insert Contact Email].
+
